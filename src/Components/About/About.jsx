@@ -16,7 +16,7 @@ const About = ({setPlayState}) => {
         <h3>ABOUT INSTITUTE</h3>
         <h2>Nurturing Tomorrow's Leaders Today</h2>
         <p>
-          At NintyPlus Institute, we believe education is more than just marks—it’s about unlocking potential and building confident learners. Founded with the mission to help students consistently achieve 90+ and beyond, we combine experienced teachers, innovative methods, and a supportive environment to make learning effective and enjoyable.
+          At NinetyPlus Institute, we believe education is more than just marks—it’s about unlocking potential and building confident learners. Founded with the mission to help students consistently achieve 90+ and beyond, we combine experienced teachers, innovative methods, and a supportive environment to make learning effective and enjoyable.
         </p>
 
         <p>
@@ -24,7 +24,7 @@ const About = ({setPlayState}) => {
         </p>
 
         <p>
-         At NintyPlus, classrooms go beyond textbooks. We focus on concept clarity, regular practice, and personal mentorship, helping students develop problem-solving skills and self-discipline. More importantly, we aim to nurture curiosity and inspire students to dream bigger.
+         At NinetyPlus, classrooms go beyond textbooks. We focus on concept clarity, regular practice, and personal mentorship, helping students develop problem-solving skills and self-discipline. More importantly, we aim to nurture curiosity and inspire students to dream bigger.
 
 We’re not just shaping exam scores—we’re shaping futures full of confidence, knowledge, and success.
         </p>
