@@ -4,7 +4,7 @@ import './Footer.css'
 const Footer = () => {
   return (
     <div className='footer'>
-        <p>© Nintyplus. All rights reserved.</p>
+        <p>© Ninetyplus. All rights reserved.</p>
         <ul>
             <li>Terms of Services</li>
             <li>Privacy Policy</li>
