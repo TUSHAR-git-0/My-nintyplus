@@ -5,6 +5,7 @@ import mail_icon from '../../assets/mail-icon.png'
 import phone_icon from '../../assets/phone-icon.png'
 import location_icon from '../../assets/location-icon.png'
 import white_arrow from '../../assets/white-arrow.png'
+import youtube from '../../assets/youtube-brands-solid-full (2).svg'
 
 const Contact = () => {
 
@@ -41,12 +42,16 @@ const Contact = () => {
           Feel free to reach out through contact form or find our contact
           information below. Your feedback, questions, and suggestions are
           important to us as we strive to provide exceptional service to our
-          university community.
+          institute community.
         </p>
         <ul>
-          <li><img src={mail_icon} alt="" />Contact@EduSity.dev</li>
-          <li><img src={phone_icon} alt="" /> +1 123-456-7890</li>
-          <li> <img src={location_icon} alt="" /> 77 Massachusetts Ave, Cambridge MA 02139, United States</li>
+          <li><img src={mail_icon} alt="" />Contact@nintyplus.com</li>
+          <li><img src={phone_icon} alt="" /> 7048979938 , 9911934234</li>
+          <li> <img src={location_icon} alt="" />A-8 2nd floor, Najafgarh Rd, Sihvram Park, Nangloi, Delhi, 110041</li>
+          <li><a href="www.youtube.com/@ninetyplus8563"className="ht-2%"><img src={youtube}alt=""/>YOUTUBE CHANNEL</a></li>
+
+         
+
         </ul>
       </div>
       <div className="contact-col">

@@ -13,26 +13,20 @@ const About = ({setPlayState}) => {
         }}/>
       </div>
       <div className="about-right">
-        <h3>ABOUT UNIVERSITY</h3>
+        <h3>ABOUT INSTITUTE</h3>
         <h2>Nurturing Tomorrow's Leaders Today</h2>
         <p>
-          Embark on a transformative educational journey with our university's
-          comprehensive education programs. Our cutting-edge curriculum is
-          designed to empower students with the knowledge, skills, and
-          experiences needed to excel in the dynamic field of education.
+          At NintyPlus Institute, we believe education is more than just marks—it’s about unlocking potential and building confident learners. Founded with the mission to help students consistently achieve 90+ and beyond, we combine experienced teachers, innovative methods, and a supportive environment to make learning effective and enjoyable.
         </p>
 
         <p>
-          With a focus on innovation, hands-on learning, and personalized
-          mentorship, our programs prepare aspiring educators to make a
-          meaningful impact in classrooms, schools, and communities.
+          Our programs span across Science, Commerce, and Humanities, ensuring every student gets the right guidance—whether it’s mastering fundamentals, preparing for board exams, or excelling in competitive challenges.
         </p>
 
         <p>
-          Whether you aspire to become a teacher, administrator, counselor, or
-          educational leader, our diverse range of programs offers the perfect
-          pathway to achieve your goals and unlock your full potential in
-          shaping the future of education.
+         At NintyPlus, classrooms go beyond textbooks. We focus on concept clarity, regular practice, and personal mentorship, helping students develop problem-solving skills and self-discipline. More importantly, we aim to nurture curiosity and inspire students to dream bigger.
+
+We’re not just shaping exam scores—we’re shaping futures full of confidence, knowledge, and success.
         </p>
       </div>
     </div>

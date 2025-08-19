@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import "./Navbar.css";
-import logo from "../../assets/logo.png";
+import logo from "../../assets/ninety_white_text.png";
 import menu_icon from "../../assets/menu-icon.png";
 import { Link } from "react-scroll";
 
@@ -39,4 +39,4 @@ const Navbar = () => {
   );
 };
 
-export default Navbar;
+export default Navbar
